@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Solid_Design_Principles/1_Solid_Design_Principles.iml" filepath="$PROJECT_DIR$/1_Solid_Design_Principles/1_Solid_Design_Principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Food_Delivery_Tomato/6_Food_Delivery_Tomato.iml" filepath="$PROJECT_DIR$/6_Food_Delivery_Tomato/6_Food_Delivery_Tomato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Low_Level_Design.iml" filepath="$PROJECT_DIR$/Low_Level_Design.iml" />
+    </modules>
+  </component>
+</project>
