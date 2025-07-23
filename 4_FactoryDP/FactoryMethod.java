@@ -41,11 +41,9 @@
         }
     }
 
-    interface BurgerFactory {
-        public Burger createBurger(String type);
-    }
 
-    class PlainBurgerFactory implements BurgerFactory {
+
+    class PlainBurgerFactory extends BurgerFactory {
         @Override
         public Burger createBurger(String type) {
             switch (type.toLowerCase()) {

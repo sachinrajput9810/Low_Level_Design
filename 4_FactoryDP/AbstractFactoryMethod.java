@@ -11,9 +11,7 @@ public class AbstractFactoryMethod {
     }
     
 }
-interface Burger{
-    void prepare();
-}
+
 
 class BasicBurger implements Burger {
     @Override

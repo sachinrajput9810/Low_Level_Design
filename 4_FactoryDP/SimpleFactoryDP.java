@@ -1,7 +1,5 @@
 
- interface Burger {
-        void prepare();
-    }
+
 
     class CheeseBurger implements Burger {
         @Override
