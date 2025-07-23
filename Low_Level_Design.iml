@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/3_Strategy_DP" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4_FactoryDP" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/5_SingletonDP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DecoratorDP" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
