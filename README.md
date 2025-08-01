@@ -3,7 +3,7 @@
 Welcome to the **Low-Level Design (LLD)** repository!  
 This repo is focused on mastering **Object-Oriented Design Principles** through **Design Patterns**, complete with:
 
-- ✅ Real-world examples (Hinglish explanation)
+- ✅ Real-world examples 
 - ✅ Java code implementation
 - ✅ UML Diagrams
 
