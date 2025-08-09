@@ -146,5 +146,7 @@ public class Main {
         root.ls(0) ;
         System.out.println("--------------------") ;
         root.openAll(0) ;
+        System.out.println("--------------------") ;
+        System.out.println("Total Size: " + root.getSize()) ;
     }
 }
