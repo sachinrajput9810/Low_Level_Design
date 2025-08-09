@@ -148,5 +148,15 @@ public class Main {
         root.openAll(0) ;
         System.out.println("--------------------") ;
         System.out.println("Total Size: " + root.getSize()) ;
+        System.out.println("--------------------") ;
+        folder2.openAll(0);
+        System.out.println("--------------------") ;
+        FileSystemElement cwd = root.cd("docs") ;
+        if(cwd == null){
+            System.out.println("Folder not found") ;
+        }
+        else{
+            cwd.ls(0) ; 
+        }
     }
 }
