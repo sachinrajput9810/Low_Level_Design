@@ -156,7 +156,7 @@ public class Main {
             System.out.println("Folder not found") ;
         }
         else{
-            cwd.ls(0) ; 
+            cwd.ls(0) ;
         }
     }
 }
