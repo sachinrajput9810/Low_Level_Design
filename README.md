@@ -14,7 +14,7 @@ This repo is focused on mastering **Object-Oriented Design Principles** through 
 
 Each folder contains:
 - `UML.png` – Class diagram for understanding architecture
-- `Main.java` – Java implementation with real-life scenario
+- `COR.java` – Java implementation with real-life scenario
 
 ---
 
