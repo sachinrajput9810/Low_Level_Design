@@ -119,7 +119,7 @@ public class COR {
         thousandHandler.setNextMoneyHandler(fiveHundredHandler);
         fiveHundredHandler.setNextMoneyHandler(hundredHandler);
 
-        thousandHandler.handleMoney(4490);
+        thousandHandler.handleMoney(6000);
     }
 
 }

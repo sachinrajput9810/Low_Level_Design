@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/14_Chain_Of_Responsibility/14_Chain_Of_Responsibility.iml" filepath="$PROJECT_DIR$/14_Chain_Of_Responsibility/14_Chain_Of_Responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_Discount_Coupon_Engine/19_Discount_Coupon_Engine.iml" filepath="$PROJECT_DIR$/19_Discount_Coupon_Engine/19_Discount_Coupon_Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Low_Level_Design.iml" filepath="$PROJECT_DIR$/.idea/Low_Level_Design.iml" />
+    </modules>
+  </component>
+</project>

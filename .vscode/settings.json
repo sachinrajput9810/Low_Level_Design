@@ -1,8 +1,11 @@
 {
     "java.project.sourcePaths": [
         "ChainOfResponsibality",
+        "1_Solid_Design_Principles/Liskov_Substitution_Principle/Document",
+        "19_Discount_Coupon_Engine/src",
         "17_ChianOfResponsibility/src",
-        "17_ChainOfResponsibality"
+        "17_ChainOfResponsibality",
+        "20_Bridge_Pattern"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
